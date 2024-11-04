@@ -1,6 +1,6 @@
 # Hi, 我是 Kirito
 
-- 🔭个人履历：19年毕业进入IBM开始从事全栈开发工作，4年开发经验。
+- 🔭个人履历：19年毕业进入IBM开始从事全栈开发工作，5年开发经验。
 - 🌱技术领域：前端（[<img height="15" src="./img/vue.svg">](https://cn.vuejs.org/)[<img height="15" src="
 ./img/react.ico">](https://react.docschina.org/)[<img height="15" src="
 ./img/angular.ico">](https://angular.cn/)）后端（[<img height="15" src="
