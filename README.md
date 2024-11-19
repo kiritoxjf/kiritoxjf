@@ -1,5 +1,5 @@
 ## Hi, I'm Kirito
-- 🔭 Personal Background: I graduated in 2019 and started working at IBM as a full-stack developer, with 5 years of development experience.
+- 🔭 Personal Profile: I graduated in 2019 and started working at IBM as a full-stack developer, with 5 years of development experience.
 - 🌱 Technical Areas: Frontend ([<img height="15" src="./img/vue.svg">](https://cn.vuejs.org/)[<img height="15" src="
 ./img/react.svg">](https://react.docschina.org/)[<img height="15" src="
 ./img/angular.svg">](https://angular.cn/)), Backend ([<img height="15" src="
